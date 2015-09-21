@@ -1,5 +1,9 @@
 # run-docker
 this is a example to tell how to run docker for production 
+You should installed docker on your linux host, if not, you may want installed them by run 
+```
+curl -sS -L -1 get.docker.com | sh
+```
 
 ```bash
 #!/bin/bash
